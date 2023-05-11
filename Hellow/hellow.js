@@ -13,3 +13,17 @@ console.log(typeof name);
 
 var TodayTemp=false;
 console.log(typeof TodayTemp);
+
+var promised='Examples in Each Chapter';
+console.log(promised.toLowerCase());
+
+var promised='Examples in Each Chapter';
+console.log(promised.toUpperCase());
+
+var promised='Examples in Each Chapter';
+console.log(promised.indexOf('in'));
+
+
+var UserName= 'We recommend reading this tutorial, in the sequence listed in the menu.';
+
+console.log(UserName.split(' '));
