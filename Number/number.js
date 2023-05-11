@@ -18,3 +18,30 @@ var number2=40.5;
 var total= +number1+ parseInt(number2);
 
 console.log(total);
+
+var price1= 25;
+var price2=25;
+var totalPrice=price1+price2;
+console.log(totalPrice);
+
+var price1= 25;
+var price2=25;
+var totalPrice=price1-price2;
+console.log(totalPrice);
+
+var price1= 25;
+var price2=25;
+var totalPrice=price1*price2;
+console.log(totalPrice);
+
+var price1= 25;
+var price2=25;
+var totalPrice=price1/price2;
+console.log(totalPrice);
+
+
+var NameUser1='Hello Bangladesh';
+var NameUser2 = 'Good Morinign';
+ var result= NameUser1+' '+NameUser2;
+
+ console.log(result);
