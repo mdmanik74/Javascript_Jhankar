@@ -41,7 +41,7 @@ console.log(totalPrice);
 
 
 var NameUser1='Hello Bangladesh';
-var NameUser2 = 'Good Morinign';
+var NameUser2 = 'Good Morning';
  var result= NameUser1+' '+NameUser2;
 
  console.log(result);
