@@ -23,8 +23,26 @@
       if (x == "") {
         alert("Name must be filled out");
         return false;
+        fname.alert('ok')
       }
     }
     </script>
+
+
+<h1>JavaScript Changing the Html Sytle</h1>
+<p id="p1">Hellow Bangladesh</p>
+
+<script>
+
+    var first =document.getElementById('p1');
+    first.style.backgroundColor='black';
+    first.style.color='green';
+    first.style.fontSize='45px';
+
+</script>
+<h1 id="demon1">My Heading Color</h1>
+
+<button type="button" onclick="document.getElementById('demon1').style.color='red'">Click Here</button>
+
 </body>
 </html>
